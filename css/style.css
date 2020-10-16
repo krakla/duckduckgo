@@ -242,6 +242,7 @@ header{
 #lbblock p{
   font-size: 16px;
   line-height: 120%;
+    color: rgb(55,83,116);
 }
 
 #lbblock .tweet-link{
